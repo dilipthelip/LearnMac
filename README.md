@@ -12,7 +12,7 @@ defaults write com.apple.finder AppleShowAllFiles YES
 
 ## How to set up gradle in local
 
-- Download gradle from the Gradle website.[Gradle Download](https://gradle.org/gradle-download/)
+- Download gradle from the Gradle website from the following link [Gradle Download](https://gradle.org/gradle-download/)
 - Download the complete distribution and unzip it.
 - Open the **.bash_profile** that will be present in the **/Users/[username]/** folder.
 - Add below lines in to the profile file.
