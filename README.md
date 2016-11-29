@@ -1,5 +1,15 @@
 # LearnMac
 
+## How to display the Hidden files in Mac?
+
+- Open the Terminal and run the below command.
+
+```
+defaults write com.apple.finder AppleShowAllFiles YES
+```
+- If you have finder open already, then close all the windows and press **control + option** and click on the touch pad . Press relaunch option.
+
+
 ## How to set up gradle in local
 
 - Open the **.bash_profile** that will be present in the **/Users/[username]/** folder.
