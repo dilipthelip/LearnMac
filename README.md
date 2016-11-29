@@ -9,6 +9,10 @@ defaults write com.apple.finder AppleShowAllFiles YES
 ```
 - If you have finder open already, then close all the windows and press **control + option** and click on the touch pad . Press relaunch option.
 
+## How to display the environment variables ?
+
+- Open Terminal
+- Type **printenv**.This command will prints out all the environment variables.
 
 ## How to set up gradle in local
 
