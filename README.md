@@ -12,7 +12,7 @@ defaults write com.apple.finder AppleShowAllFiles YES
 ## How to display the environment variables ?
 
 - Open Terminal
-- Type **printenv**.This command will prints out all the environment variables.
+- Type **printenv** in the terminal.This command will prints out all the environment variables.
 
 ## How to set up gradle in local
 
