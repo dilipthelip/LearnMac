@@ -1,5 +1,9 @@
 # LearnMac
 
+## Where is Java installation path in Mac?
+
+**/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java**
+
 ## How to display the Hidden files in Mac?
 
 - Open the Terminal and run the below command.
