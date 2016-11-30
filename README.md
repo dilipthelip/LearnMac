@@ -20,7 +20,7 @@ defaults write com.apple.finder AppleShowAllFiles YES
 
 # Git
 
-## How to display the current Working Branch in GIT ?
+## How to display the current Working Branch in Terminal(Mac) ?
 
 - Add the below piece of code at the bottom of the **.bash_profile** file.
 
