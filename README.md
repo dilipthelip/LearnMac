@@ -83,6 +83,12 @@ brew services stop postgresql
 
 ```
 
+## PostGres Client
+
+Download the postgres client **pgAdmin** from the below link. 
+
+https://www.postgresql.org/ftp/pgadmin3/pgadmin4/v1.1/macos/
+
 # Gradle 
 ## How to set up gradle in local
 
