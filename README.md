@@ -18,6 +18,26 @@ defaults write com.apple.finder AppleShowAllFiles YES
 - Open Terminal
 - Type **printenv** in the terminal.This command will prints out all the environment variables.
 
+# Git
+
+## How to display the current Working Branch in GIT ?
+
+- Add the below piece of code at the bottom of the **.bash_profile** file.
+
+```
+# Git branch in prompt.
+
+parse_git_branch() {
+
+    git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
+
+}
+
+export PS1="\u@\h \W\[\033[32m\]\$(parse_git_branch)\[\033[00m\] $ "
+
+```
+
+# Gradle 
 ## How to set up gradle in local
 
 - Download gradle from the Gradle website from the following link [Gradle Download](https://gradle.org/gradle-download/)
