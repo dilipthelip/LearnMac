@@ -63,11 +63,25 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 
 ## How to install PostGres?
 
+Run the below command : 
+
 ```
 brew install postgres
 
 ```
 
+How to Start PostGres?
+
+```
+brew services start postgresql
+```
+
+How to Stop PostGres?
+
+```
+brew services stop postgresql
+
+```
 
 # Gradle 
 ## How to set up gradle in local
