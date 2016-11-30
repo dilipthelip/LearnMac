@@ -2,7 +2,7 @@
 
 ## Where is Java installation path in Mac?
 
-**/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java**
+Path - /Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java
 
 ## How to display the Hidden files in Mac?
 
