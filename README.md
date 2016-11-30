@@ -18,6 +18,17 @@ defaults write com.apple.finder AppleShowAllFiles YES
 - Open Terminal
 - Type **printenv** in the terminal.This command will prints out all the environment variables.
 
+# Chrome 
+
+## How to open developer Tools ?
+
+Cmd + Opt + I
+
+Follow the below link for more options:
+
+https://developers.google.com/web/tools/chrome-devtools/inspect-styles/shortcuts
+
+
 # Git
 
 ## How to display the current Working Branch in Terminal(Mac) ?
