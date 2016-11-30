@@ -48,6 +48,15 @@ export PS1="\u@\h \W\[\033[32m\]\$(parse_git_branch)\[\033[00m\] $ "
 
 ```
 
+# Brew
+
+## How to install Brew ?
+
+```
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+```
+
 # Gradle 
 ## How to set up gradle in local
 
