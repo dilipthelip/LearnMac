@@ -52,10 +52,22 @@ export PS1="\u@\h \W\[\033[32m\]\$(parse_git_branch)\[\033[00m\] $ "
 
 ## How to install Brew ?
 
+Run the below command.
+
 ```
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 ```
+
+# PostGresSql
+
+## How to install PostGres?
+
+```
+brew install postgres
+
+```
+
 
 # Gradle 
 ## How to set up gradle in local
