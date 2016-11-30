@@ -122,5 +122,7 @@ BUILD SUCCESSFUL
 
 Total time: 0.926 secs
 ```
+## Gradle Commands
 
+**gradle assemble** - This will build the project and places the artifact in the build folder.
 
