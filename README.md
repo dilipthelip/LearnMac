@@ -6,13 +6,22 @@ Path - /Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java
 
 ## How to kill a process in Mac ?
 
--   Open Terminal and type **top**
+-   Open Terminal and type this command 
+
+```
+top
+```
+
 -   This will list all the process.
 
 Let us say that you want to delete the java process that is already running.
 
 -   Check for the PID java process in the list that is displayed by running the **top** command.
--   Run this command **kill -9 [PID]**
+-   Run this command 
+
+```
+kill -9 [PID]
+```
 
 
 ## How to display the Hidden files in Mac?
