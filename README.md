@@ -23,6 +23,14 @@ Let us say that you want to delete the java process that is already running.
 kill -9 [PID]
 ```
 
+## How to kill a java process running on a particular port?
+
+```
+sudo lsof -i :8080
+```
+```
+kill -9 [PID]
+```
 
 ## How to display the Hidden files in Mac?
 
