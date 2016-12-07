@@ -49,6 +49,18 @@ Follow the below link for more options:
 https://developers.google.com/web/tools/chrome-devtools/inspect-styles/shortcuts
 
 
+## How to minimize the window?
+
+```
+command + m
+```
+
+## How to switch between windows of the same app ?
+
+```
+command + `
+```
+
 # Git
 
 ## How to display the current Working Branch in Terminal(Mac) ?
