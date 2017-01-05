@@ -123,6 +123,21 @@ brew services stop postgresql
 
 ```
 
+How to Create a user in Postgres via command line?
+
+```
+createuser -h localhost -p 5432 -S -D -R -e postgres
+
+```
+
+How to create a DB in Postgres via command line?
+
+```
+createdb -p 5432 -h localhost -e localDB
+
+```
+
+
 ## PostGres Client
 
 Download the postgres client **pgAdmin** from the below link. 
