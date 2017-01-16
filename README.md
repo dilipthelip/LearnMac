@@ -41,6 +41,15 @@ defaults write com.apple.finder AppleShowAllFiles YES
 ```
 - If you have finder open already, then close all the windows and press **control + option** and click on the touch pad . Press relaunch option.
 
+## How to determine the Ip Address?
+```
+ifconfig |grep inet
+
+http://osxdaily.com/2010/11/21/find-ip-address-mac/
+
+```
+
+
 ## How to display the environment variables ?
 
 - Open Terminal
