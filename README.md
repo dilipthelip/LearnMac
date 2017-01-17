@@ -4,6 +4,15 @@
 
 Path - /Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java
 
+# How to kill a java process in mac?  
+
+```
+ps ax | grep java
+
+kill -TERM <processid>
+
+```
+
 ## How to kill a process in Mac ?
 
 -   Open Terminal and type this command 
