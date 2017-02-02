@@ -64,6 +64,15 @@ http://osxdaily.com/2010/11/21/find-ip-address-mac/
 - Open Terminal
 - Type **printenv** in the terminal.This command will prints out all the environment variables.
 
+## How to encode and decode using base64 encoding?
+
+```
+z001qgd@6c4008c0f7fa ~ $ echo 'mystring' | openssl base64
+bXlzdHJpbmcK
+z001qgd@6c4008c0f7fa ~ $ echo 'bXlzdHJpbmcK' | openssl base64 -d
+mystring
+```
+
 # Chrome 
 
 ## How to open developer Tools ?
