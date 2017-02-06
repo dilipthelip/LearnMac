@@ -13,6 +13,13 @@ kill -TERM <processid>
 
 ```
 
+## How to sudo  in Mac ?
+
+```
+sudo su
+```
+
+
 ## How to kill a process in Mac ?
 
 -   Open Terminal and type this command 
