@@ -2,7 +2,7 @@
 
 ## Where is Java installation path in Mac?
 
-Path - /Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java
+Path - /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java
 
 # How to kill a java process in mac?  
 
