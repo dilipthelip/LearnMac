@@ -13,6 +13,13 @@ kill -TERM <processid>
 
 ```
 
+## How to check the memory size of folders?
+
+```
+du -hd 2 .
+```
+
+
 ## How to sudo  in Mac ?
 
 ```
